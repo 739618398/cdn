@@ -3,8 +3,6 @@
 //const tips_path = "https://cdn.jsdelivr.net/gh/taylorlottner/xiaobudian@latest/";
 const live2d_path = "https://cdn.jsdelivr.net/gh/739618398/cdn@1.3/";
 const tips_path = "https://cdn.jsdelivr.net/gh/739618398/cdn@1.3/";
-// const live2d_path = "";
-//const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
